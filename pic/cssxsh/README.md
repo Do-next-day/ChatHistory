@@ -8,3 +8,4 @@
 ![add money](addmoney.jpg)
 ![vegetable](vegetable.jpg)
 ![moe](moe.png)
+![mute](mute1.jpg)
