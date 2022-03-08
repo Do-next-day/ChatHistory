@@ -6,3 +6,4 @@
 ![鬼](6.jpg)
 ![融为一体](7.jpg)
 ![ex](ex.jpg)
+![takeMe](takeme.jpg)
