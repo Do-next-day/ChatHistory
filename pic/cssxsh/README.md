@@ -8,3 +8,4 @@
 ![not to matter](nottomatter.jpg)
 ![add money](addmoney.jpg)
 ![vegetable](vegetable.jpg)
+![moe](moe.png)
