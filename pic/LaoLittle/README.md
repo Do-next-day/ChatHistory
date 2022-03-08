@@ -14,4 +14,3 @@
 ![正常](12.png)
 ![长](13.jpg)
 ![attach](attach.jpg)
-![vegetable](vegetable.jpg)
