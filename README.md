@@ -6,5 +6,8 @@
 - [liuqianpan2008](./pic/liuqianpan2008)
 - [StageGuard](./pic/StageGuard)
 - [RainChan](./pic/RainChan)
+- [Him188](./pic/Him188)
+- [chuanwise](./pic/chuanwise)
+- [qfys521](./pic/qfys521)
 
 ## )
