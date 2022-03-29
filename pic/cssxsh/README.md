@@ -14,3 +14,4 @@
 ![xp](xp.png)
 ![sex](not_enough_sex.jpg)
 ![game](game.png)
+![trash](trash.png)
